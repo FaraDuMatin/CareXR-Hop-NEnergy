@@ -1,4 +1,4 @@
-# Empty XR Project
+# Hop'N Energy XR Project
 This is a ready go to Unity project for XR developement. It has all the configuration needed with Meta XR SDK. 
 
 You can import this project directly into Unity and start developement (no need to follow step 3).
